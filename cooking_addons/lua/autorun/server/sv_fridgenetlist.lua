@@ -1,0 +1,1 @@
+util.AddNetworkString("Net.mathfridgeopenpanel")
